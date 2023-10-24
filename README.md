@@ -1,2 +1,2 @@
-# Birthday-Generator
-Birthday Generator
+# Birthday-Reminder
+Birthday Reminder
